@@ -16,8 +16,8 @@ Sistem Informasi Pengelolaan Zakat, Infak, dan Sedekah (ZIS) berbasis **Laravel*
 
 ###  Dashboard User (Donatur)
 - **Ringkasan Transaksi**: Info total donasi dan status pembayaran.
-- **Laporan Grafik**: Visualisasi tren donasi bulanan (Chart.js).
-- **Form Donasi**: Pilihan nominal cepat (preset) atau input manual.
+- **Laporan Grafik**: Visualisasi tren donasi bulanan.
+- **Form Donasi**: Pilihan nominal cepat atau input manual.
 - **Pengajuan Dana**: Mengajukan bantuan atau dana secara digital.
 
 ###  Dashboard Admin (Administrator)
