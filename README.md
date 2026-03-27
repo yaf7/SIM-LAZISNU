@@ -53,7 +53,7 @@ Berikut adalah tampilan utama dari sistem LAZISNU:
 
 | Manajemen Data User | Statistik Arus Kas (Fund) |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/ed90ccf3-028f-4f8c-90f5-123b3c48e160" width="400"> | <img src="https://github.com/user-attachments/assets/ddd2008f-2228-466a-9ece-4d91f3309811" width="400"> |
+| <img src="https://github.com/user-attachments/assets/7c1333c7-9f14-4425-8960-8a5c4daa29fb" width="400"> | <img src="https://github.com/user-attachments/assets/ddd2008f-2228-466a-9ece-4d91f3309811" width="400"> |
 
 ---
 
