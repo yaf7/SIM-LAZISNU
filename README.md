@@ -10,12 +10,6 @@
 # SIM-LAZISNU
 Sistem Informasi Manajemen LAZISNU berbasis Laravel dengan integrasi Xendit Payment Gateway.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fc408db8-1a49-4c85-b22f-7df83d5ea9a3" width="100%" alt="Landing Page LAZISNU">
-</p>
-
-Sistem Informasi Pengelolaan Zakat, Infak, dan Sedekah (ZIS) berbasis **Laravel**.
-
 ##  Fitur Utama
 
 ###  Autentikasi Satu Pintu
