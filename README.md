@@ -32,7 +32,7 @@ Sistem Informasi Manajemen LAZISNU berbasis Laravel dengan integrasi Xendit Paym
 
 ---
 
-##  Dokumentasi Antarmuka (Preview Lengkap)
+##  Dokumentasi Antarmuka
 
 Berikut adalah tampilan utama dari sistem LAZISNU:
 
