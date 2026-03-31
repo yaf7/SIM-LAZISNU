@@ -8,7 +8,7 @@
 </p>
 
 # SIM-LAZISNU
-Sistem Informasi Manajemen LAZISNU berbasis Laravel dengan integrasi Xendit Payment Gateway.
+Sistem Informasi Manajemen donasi berbasis Laravel untuk LAZISNU, dilengkapi dengan implementasi simulasi Xendit Payment Gateway.
 
 ---
 ##  Fitur Utama
